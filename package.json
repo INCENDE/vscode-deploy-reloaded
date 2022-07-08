@@ -80620,7 +80620,7 @@
   "merge-deep": "^3.0.2",
   "mime-types": "^2.1.24",
   "minimatch": "^3.0.4",
-  "moment": "^2.24.0",
+  "moment": "^2.29.4",
   "moment-timezone": "^0.5.26",
   "mssql": "^4.3.7",
   "mysql": "^2.17.1",
